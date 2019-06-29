@@ -1,0 +1,208 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Rokkitt&display=swap');
+.nav-list{
+
+    position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	top: 100px;
+	left: 0;
+	right: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-top-left-radius: 25px;
+	z-index: 2;
+
+
+}
+.bwidth{
+	width: 100px;
+}
+.search{
+	width: 150px;
+}
+.apple{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.apple img{
+	height: 30px;
+}
+.btn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	border-right: 1px solid black;
+	height: 20px;
+	background-color: #3c3c3c;
+	color: white;
+}
+.btn a{
+	font-family: 'Rokkitt', serif;
+	text-decoration: none;
+	color: white;
+}
+.search{
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.btn > form > input{
+	width: 130px;
+	background-image: url("images/search.png");
+	  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  border-radius: 10px;
+}
+
+.content-pos{
+	position: relative;
+	margin-top: 0;
+}
+.back-image{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-image: url("images/bigcover1.jpg"); 
+	height: 500px;
+  background-position: center top;
+  background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+ .content-text{
+position: relative;
+	text-align: center;
+	    margin-top: 180px;
+
+}
+.content-text >  h1{
+font-family: 'Cinzel', serif;
+ padding-bottom: 20px;
+    font-size: 50px;
+     text-shadow: 2px 2px grey;
+    color: white;
+}
+.content-text > p{
+	font-family: 'Cinzel', serif;
+    font-size: 30px;
+     text-shadow: 2px 2px grey;
+	color: white;
+	padding-bottom: 10px;
+	
+
+}
+
+.play-link{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+.play , img{
+	height: 30px;
+}
+
+.just-link a{
+	text-decoration: none;
+	color: white;
+		font-size: 10px;
+		font-family: 'Cinzel', serif;
+		    font-size: 25px;
+		     text-shadow: 2px 2px grey;
+
+}
+.little-backgrounds{
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	    top: 80px;
+
+}
+.iphone-bw{
+	width: 25%;
+	height:200px;
+}
+.one{
+	background-image: url("images/iphone1.jpg");
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.two{
+	background-image: url("images/iphone2.jpg");
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three{
+	background-image: url("images/iphone3.jpg");
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.four{
+	background-image: url("images/iphone4.jpg");
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer-content{
+	
+	width: 70%;
+	position: relative;
+	margin-top: 120px;
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+
+
+
+}
+.footer-first{
+
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+justify-content: space-between;
+}
+.footer-first p{
+	font-size: 12px;
+	color: grey;
+}
+.footer-first a{
+	text-decoration: none;
+	color: #6fa5d8;
+}
+.footer-links{
+	display: flex;
+	
+
+}
+.footer-links a{
+
+	padding-right: 10px;
+	padding-left: 5px;
+	text-decoration: none;
+	font-size: 12px;
+	color: #6fa5d8;
+	
+	
+}
+.footer-last{
+	margin-top: 15px;
+	
+}
+.footer-last p{
+
+font-size: 12px;
+	color: grey;
+}
+.footer-last a{
+	text-decoration: none;
+	font-size: 12px;
+	color: #6fa5d8;
+}
