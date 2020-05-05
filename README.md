@@ -14,3 +14,16 @@ It’s not a very complex site but it uses background photos.
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Usage
+
+> Clone the repository to your local machine
+
+```sh
+$ git clone https://github.com/danilozag1992/Backgrounds-and-Gradients.git
+```
+> cd into the directory
+
+```sh
+$ cd Backgrounds-and-Gradients
+```
