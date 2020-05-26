@@ -8,7 +8,7 @@ It’s not a very complex site but it uses background photos.
 
 ![screenshot](https://raw.githubusercontent.com/kobiyoyo/Building-with-Backgrounds-and-Gradients/master/images/screenshotj.png) 
 
-##Developer
+## Developer
 [Danilo Zagarcanin ](https://github.com/danilozag1992)
 
 ## Show your support
@@ -27,3 +27,7 @@ $ git clone https://github.com/danilozag1992/Backgrounds-and-Gradients.git
 ```sh
 $ cd Backgrounds-and-Gradients
 ```
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
